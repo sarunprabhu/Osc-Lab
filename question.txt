@@ -1,0 +1,6 @@
+create an employee information portal using node.js,express,and 
+mongodb include features to add,view,and delete employee records using mongodb.
+
+
+npm i -y
+npm express mongoose
